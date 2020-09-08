@@ -1,6 +1,6 @@
 import React from "react";
 import FormInput from "../form-input/form-input.component";
-import CustomButton from "../custom-buttom/custom-button.component";
+import CustomButton from "../custom-button/custom-button.component";
 
 import { signInWithGoogle } from "../../fiebase/firebase.utils";
 
